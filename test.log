@@ -1,0 +1,25 @@
+2023-09-29 19:15:34,389 - WARNING - logger started
+2023-09-29 19:15:34,393 - DEBUG - Creating converter from 3 to 5
+2023-09-29 19:15:34,676 - INFO - loadng data
+2023-09-29 19:15:35,690 - INFO - testing data preparation
+2023-09-29 19:15:35,773 - INFO - loadng data
+2023-09-29 19:15:36,779 - INFO - training model
+2023-09-29 19:15:37,001 - INFO - testing instance of the model
+2023-09-29 19:15:37,102 - INFO - loadng data
+2023-09-29 19:15:38,165 - INFO - training model
+2023-09-29 19:15:38,261 - INFO - evaluation of the model
+2023-09-29 19:15:43,032 - INFO - loadng data
+2023-09-29 19:15:44,678 - INFO - training model
+2023-09-29 19:15:44,849 - INFO - testing model on the input user image
+2023-09-29 19:15:44,849 - INFO - Loading and preprocessing cat1.jpg image
+2023-09-29 19:15:44,889 - INFO - converting image to array
+2023-09-29 19:15:44,891 - INFO - model inference in process
+2023-09-29 19:15:44,891 - INFO - ::::::::::::::::::::::::::::::
+2023-09-29 19:15:44,891 - INFO - ::::::::::::::::::::::::::::::
+2023-09-29 19:15:44,891 - INFO - ::::::::::::::::::::::::::::::
+2023-09-29 19:15:44,891 - INFO - ::::::::::::::::::::::::::::::
+2023-09-29 19:15:45,138 - INFO - ::::::::::::::::::::::::::::::
+2023-09-29 19:15:45,138 - INFO - ::::::::::::::::::::::::::::::
+2023-09-29 19:15:45,139 - INFO - ::::::::::::::::::::::::::::::
+2023-09-29 19:15:45,139 - INFO - ::::::::::::::::::::::::::::::
+2023-09-29 19:15:45,139 - INFO - the input file is cat1.jpg

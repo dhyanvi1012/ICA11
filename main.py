@@ -5,7 +5,7 @@ logging.basicConfig(filename='app.log', filemode='w', level=logging.DEBUG,format
 
 # Call the predict_image function with your image data
 # Replace 'image_path' with the path to your image file
-image_path = r"cat1.jpg"
+image_path = r"plane1.png"
 predicted_class = predict_image(image_path)
 
 print(f"Predicted class: {predicted_class}")
