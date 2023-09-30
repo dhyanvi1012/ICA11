@@ -19,7 +19,7 @@ jobs:
 
         - name: Build and push Docker image
           run: |
-            docker build -t my-ml-app .
+            docker build -t iac1 .
             docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
-            docker tag my-ml-app ${{ secrets.DOCKER_USERNAME }}/my-ml-app
-            docker push ${{ secrets.DOCKER_USERNAME }}/my-ml-app
+            docker tag iac1 ${{ secrets.DOCKER_USERNAME }}/iac1
+            docker push ${{ secrets.DOCKER_USERNAME }}/iac1
