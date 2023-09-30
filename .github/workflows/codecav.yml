@@ -2,7 +2,7 @@ name: Code-Coverage
 
 on:
   workflow_run:
-    workflows: ["Test"]  # Name of the first workflow
+    workflows: ["Python application"]  # Name of the first workflow
     types:
       - completed
 
